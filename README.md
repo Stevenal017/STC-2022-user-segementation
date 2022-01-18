@@ -1,4 +1,4 @@
-# STC-2022-user-segementation
+# STC-2022-user-segmentation
 This repository contains the final version of Statistics Team Competition held by LOGIKA UI 2022, contains some important files such as notebook, and the presentation file slides.
 
 The result of this work was done by Steven Alexander Liong and Stefani Angelika
